@@ -1,3 +1,0 @@
-/home/avery/code/HttpServer/build_rel_off/CMakeFiles/http_server.dir
-/home/avery/code/HttpServer/build_rel_off/CMakeFiles/edit_cache.dir
-/home/avery/code/HttpServer/build_rel_off/CMakeFiles/rebuild_cache.dir

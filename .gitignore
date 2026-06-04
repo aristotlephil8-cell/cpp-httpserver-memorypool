@@ -4,3 +4,32 @@ build/
 *.so
 .cache/
 compile_commands.json
+
+# Build directories
+build/
+build_*/
+build-*/
+build_rel_on/
+build_rel_off/
+build_stats/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Binaries and objects
+*.o
+*.a
+*.so
+*.out
+*.exe
+http_server
+
+# Logs and raw benchmark outputs
+*.log
+bench/results/raw/
+bench/results/*.log
+bench/results/**/*.log
