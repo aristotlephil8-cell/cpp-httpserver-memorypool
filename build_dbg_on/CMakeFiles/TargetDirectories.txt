@@ -1,0 +1,3 @@
+/home/avery/code/HttpServer/build_dbg_on/CMakeFiles/http_server.dir
+/home/avery/code/HttpServer/build_dbg_on/CMakeFiles/edit_cache.dir
+/home/avery/code/HttpServer/build_dbg_on/CMakeFiles/rebuild_cache.dir
