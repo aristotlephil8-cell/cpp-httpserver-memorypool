@@ -33,3 +33,6 @@ http_server
 bench/results/raw/
 bench/results/*.log
 bench/results/**/*.log
+
+# Local-only design notes (not published)
+DESIGN_NOTES.md
